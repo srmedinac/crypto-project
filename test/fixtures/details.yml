@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ad: one
+  terms: MyText
+  expiration_date: 2017-09-27
+  content: MyString
+  age: 1
+  description: MyText
+
+two:
+  ad: two
+  terms: MyText
+  expiration_date: 2017-09-27
+  content: MyString
+  age: 1
+  description: MyText
